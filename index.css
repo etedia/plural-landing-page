@@ -1,0 +1,99 @@
+
+
+
+h1{
+    color: azure;
+    text-align: center;
+    padding-top: 20px;
+    /* background-color: black; */
+}
+.mbd{
+    background-color: black;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 900px;
+
+}
+
+.form{
+    /* background-color: rgb(20, 15, 15); */
+    color: azure;
+    line-height: 30px;
+    color: white;
+    font-size: 20px;
+    /* font-weight: 400; */
+    /* height: 400px; */
+    padding: 50px  50px 0px  50px;
+    /* padding-left: 50px ; */
+    /* padding-right:500px;  */
+}
+
+.form input{
+    padding: 5px;
+    
+}
+.form button{
+    margin-top: 20px;
+    background-color: rgb(95, 131, 228);;
+    text-align: center;
+    width: 570px;
+    padding: 5px;
+    /* border-radius: 15px; */
+    border: rgb(95, 131, 228);
+    font-size: medium;
+    color: white;
+}
+
+#fistButton{
+    text-align: center;
+    padding-top:100px ;
+    line-height: 40px;
+    /* margin-top: 10px; */
+   
+   
+}
+#f{
+    color: rgb(95, 131, 228);
+    background-color: black;
+    border: black;
+    padding: 5px;
+    /* width: 200px; */
+    font-size: medium;
+}
+#f2{
+    color: rgb(95, 131, 228);
+    background-color: black;
+    border: black;
+    padding: 5px;
+    width: 300px;
+    font-size: medium;
+}
+.secondButton{
+    padding-top:200px;
+    text-align: center;
+ }
+
+#b{
+    padding-bottom: 20px;
+    /* width: 1000px; */
+    
+}
+
+#sb{
+    background-color: rgb(112, 112, 110);
+    width: 570px;
+    padding: 5px;
+    border: rgb(112, 112, 110);
+    color: white;
+}
+ #lp{
+     color: azure;
+     padding-bottom: 20px;
+ }
+/* label{
+    color: white;
+    font-size: 10px;
+    font-weight: 400;
+    
+} */
+
